@@ -1,2 +1,5 @@
 This is Java File
-this is updated in master
+<<<<<<< HEAD
+=======
+this is updated in dev
+>>>>>>> dev
